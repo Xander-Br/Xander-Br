@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">A developer apprentice at Nagravision</h3>
 
