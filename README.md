@@ -5,7 +5,7 @@
 
 - 🎒 I’m currently working at [Nagravision](https://www.nagra.com/)
 
-- 🌱 I’m currently learning **React, C#**
+- 🌱 I’m currently learning **React, C#, Rust**
 
 - 👨‍💻 All of my projects are available at [https://xndr.ch/](https://xndr.ch/)
 
