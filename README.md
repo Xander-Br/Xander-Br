@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://xndr.ch/](https://xndr.ch/) The website is down cuz i don't want to do ui
 
-- 📝 I want to write articles on [https://dev.to/xanderbre](https://dev.to/xanderbre)
-
 - 📫 How to reach me **breuilalexandre2003@gmail.com**
 
 - ⚡ Fun fact **I try to do things**
