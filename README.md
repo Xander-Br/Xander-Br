@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">A developer apprentice at Nagravision</h3>
+<h3 align="center">A developer at Nagravision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xander-br&label=Profile%20views&color=0e75b6&style=flat" alt="xander-br" /> </p>
 
