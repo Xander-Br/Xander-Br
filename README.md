@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xander-br&label=Profile%20views&color=0e75b6&style=flat" alt="xander-br" /> </p>
 
-- 🎒 I’m currently working at [Nagravision](https://www.nagra.com/)
+- 🎒 I’m currently working for myself and building my portfolio
 
 - 🌱 I’m currently learning **Rust, Wasm**
 
